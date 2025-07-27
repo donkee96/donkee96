@@ -1,8 +1,3 @@
-from pathlib import Path
-
-readme_content = """
-# 👋 Welcome to Tongkyu Kim's Research Portfolio
-
 ## 🌍 About Me  
 I am a researcher specializing in climate governance, behavioral environmental economics, and sustainable development policy. My work focuses on the environmental integrity of carbon markets (including Article 6 mechanisms), decision-making in climate action, and pro-environmental behavior across intergovernmental and academic contexts.  
 
